@@ -10,4 +10,4 @@ pip install requests
 
 python dos_tool.py
 
-Şsklindedir
+Şeklindedir
